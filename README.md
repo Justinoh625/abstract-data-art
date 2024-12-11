@@ -44,8 +44,8 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](nba-logo.jpg)](https://www.youtube.com/shorts/767hyTrIpqw)
 
 ## Description
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+Our program displays information about certain NBA teams and it uses data from the txt files. These files are the wins, teams, arena, and the arena capacity, which conveys statistics of each team. The program loops through all of the teams and shows the text of the team, the arena, the capacity, and if they won a championship or not. If the team did a championship, a celebration horn sound effect is played. If not, then a regular ping sound is played.
